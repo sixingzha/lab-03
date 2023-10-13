@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Sixing Zha, Moyin Eyiowuawi, Yuxiang Wu and Ruijia Liu, Mingshi Yue - Team Name"
+author: "Sixing Zha, Moyin Eyiowuawi, Yuxiang Wu and Ruijia Liu, Mingshi Yue - IDS students"
 date: "`r Sys.Date()`"
 output: html_document
 ---
